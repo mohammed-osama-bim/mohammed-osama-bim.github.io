@@ -6,15 +6,19 @@
     "place": "Abu Dhabi",
     "type": "High-end residential compound",
     "client": "Modon Properties",
-    "image": "/hud.jpg",
+    "image": "/media/12-hud.jpg",
     "alt": "Aerial developer visual of residential districts and landscaping on Hudayriyat Island",
     "credit": "Modon, wider island masterplan context. The CV does not identify a specific district.",
     "url": "https://www.modon.com/real-estate/hudayriyat-island",
-    "focus": "From Schematic Design to IFC.",
+    "focus": "BIM coordination",
     "roles": [
       "Coordinated integrated BIM models across disciplines from Schematic Design to IFC.",
       "Aligned submittals with the BEP and municipal codes, working with sub-consultants and the Dubai design team.",
       "Discussed design aspects with Abu Dhabi Municipality engineers to address codes and regulations."
+    ],
+    "highlights": [
+      "Coordinated multidisciplinary BIM models from Schematic Design to IFC.",
+      "Checked BEP and municipal-code compliance with the design team and sub-consultants."
     ]
   },
   {
@@ -24,14 +28,18 @@
     "place": "Dubai",
     "type": "Community-centric residential compound",
     "client": "AVENEW Developer",
-    "image": "/ave.jpg",
+    "image": "/media/13-ave.jpg",
     "alt": "Developer render of terraced apartment buildings around a planted courtyard and pool",
     "credit": "Avenew Development, project marketing visual.",
     "url": "https://avenewdevelopment.ae/projects/avenew-888/",
-    "focus": "Integrated models. Coordinated delivery.",
+    "focus": "BIM coordination",
     "roles": [
       "Built and coordinated integrated BIM models across disciplines for precise delivery at each design stage.",
       "Discussed design aspects with municipal engineers for code and regulatory compliance."
+    ],
+    "highlights": [
+      "Built and coordinated multidisciplinary models at each design stage.",
+      "Coordinated design compliance with municipal engineers."
     ]
   },
   {
@@ -41,11 +49,15 @@
     "place": "Dubai",
     "type": "Ultra-residential compound",
     "client": "Meraas Developer",
-    "focus": "Compliance built into coordination.",
+    "focus": "BIM coordination",
     "roles": [
       "Ensured designs and submittals met the BEP, municipal codes and client requirements.",
       "Built and coordinated integrated BIM models, aligning drawings with project teams and sub-consultants.",
       "Coordinated design aspects with municipal engineers."
+    ],
+    "highlights": [
+      "Aligned models and drawings with project teams and sub-consultants.",
+      "Checked BEP, client and municipal-code requirements."
     ]
   },
   {
@@ -54,11 +66,15 @@
     "region": "Egypt",
     "place": "New Cairo",
     "type": "Commercial",
-    "focus": "Technical coordination, inside and out.",
+    "focus": "Technical coordination",
     "roles": [
       "Integrated Architecture, Structure, MEP and Infrastructure drawings and reviewed technical design issues.",
       "Prepared exterior and interior working drawings.",
       "Developed schedules and step-by-step action plans, monitored progress, handled issues and reported to stakeholders."
+    ],
+    "highlights": [
+      "Integrated Architecture, Structure, MEP and Infrastructure drawings.",
+      "Prepared interior and exterior working drawings; tracked schedules and progress."
     ]
   },
   {
@@ -67,15 +83,19 @@
     "region": "Egypt",
     "place": "New Mansoura",
     "type": "Residential & commercial compound",
-    "image": "/pearl.jpg",
+    "image": "/media/14-pearl.jpg",
     "alt": "Developer render of a contemporary two-storey villa facing a swimming pool",
     "credit": "Safwa Urban Developments, project marketing visual. Not a personal render.",
     "url": "https://sud.com.eg/portfolio/thepearl/",
-    "focus": "Drawings, documentation and delivery.",
+    "focus": "Technical documentation",
     "roles": [
       "Coordinated drawings across disciplines and prepared exterior and interior working drawings.",
       "Developed schedules and action plans, monitored progress and kept stakeholders informed.",
       "Reviewed BOQ, specifications and tender documents and prepared monthly progress reports."
+    ],
+    "highlights": [
+      "Coordinated working drawings across disciplines.",
+      "Reviewed BOQ, specifications and tender documents; reported monthly progress."
     ]
   },
   {
@@ -84,15 +104,19 @@
     "region": "Egypt",
     "place": "New Administrative Capital",
     "type": "Residential compounds",
-    "image": "/cap.jpg",
+    "image": "/media/15-cap.jpg",
     "alt": "Developer render of apartment buildings around landscaped paths and a swimming pool",
     "credit": "Safwa Urban Developments, Capital Heights 1 visual only.",
     "url": "https://sud.com.eg/portfolio/capitalheights1/",
-    "focus": "Connecting the owner and project teams.",
+    "focus": "Project coordination",
     "roles": [
       "Acted as main coordinator between project departments and the owner.",
       "Defined the project plan and scope by gathering and planning requirements.",
       "Followed up on team progress and liaised with government authorities on compliance and approvals."
+    ],
+    "highlights": [
+      "Coordinated communication between project departments and the owner.",
+      "Planned scope and requirements; followed up on progress and authority approvals."
     ]
   },
   {
@@ -101,13 +125,17 @@
     "region": "Egypt",
     "place": "New Cairo",
     "type": "Residential",
-    "image": "/azzar.jpg",
+    "image": "/media/16-azzar.jpg",
     "alt": "Developer visual of a landscaped pool with shaded cabanas and residential buildings beyond",
     "credit": "Reedy Group, Azzar New Cairo community context. Specific phase not identified in the source image.",
     "url": "https://azzarreedy.com/azzar-new-cairo/",
-    "focus": "Coordinated IFC and permit drawings.",
+    "focus": "IFC & permit drawings",
     "roles": [
       "Prepared IFC working drawings coordinated with architectural, MEP and structural designs.",
+      "Prepared permit drawings."
+    ],
+    "highlights": [
+      "Prepared coordinated IFC working drawings.",
       "Prepared permit drawings."
     ]
   },
@@ -117,10 +145,14 @@
     "region": "Egypt",
     "place": "Sheikh Zayed",
     "type": "Retail",
-    "focus": "Interior detail meets site coordination.",
+    "focus": "Interior technical delivery",
     "roles": [
       "Coordinated drawings based on the project design and prepared interior IFC working drawings.",
       "Handled material selection and coordinated the BOQ with the site engineer."
+    ],
+    "highlights": [
+      "Prepared interior IFC working drawings.",
+      "Selected materials and coordinated the BOQ with the site engineer."
     ]
   }
 ]
