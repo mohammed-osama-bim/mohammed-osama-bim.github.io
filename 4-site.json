@@ -1,0 +1,62 @@
+{
+  "name": "Mohammed Osama Samir",
+  "title": "Senior BIM Architect",
+  "location": "Cairo, Egypt",
+  "headline": "Every discipline. One clear model.",
+  "intro": "I specialize in high-end residential projects across the GCC, delivering coordinated architectural models from Schematic Design through IFC.",
+  "about": "My work connects Architecture, Structure, MEP, Landscape and Interior, resolving clashes early and keeping deliverables aligned with the BIM Execution Plan.",
+  "skills": [
+    {
+      "title": "BIM & CAD",
+      "items": [
+        "Autodesk Revit",
+        "Navisworks",
+        "Dynamo",
+        "AutoCAD",
+        "Autodesk Construction Cloud (ACC)"
+      ]
+    },
+    {
+      "title": "Design & visualization",
+      "items": [
+        "Adobe Photoshop",
+        "Adobe InDesign"
+      ]
+    },
+    {
+      "title": "Planning & collaboration",
+      "items": [
+        "Microsoft Office",
+        "Microsoft Project",
+        "Microsoft Teams"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "dates": "2024 - Present",
+      "title": "Senior BIM Architect",
+      "company": "Whitespace Architects Int. · Egypt",
+      "points": [
+        "Build and coordinate integrated BIM models across disciplines for each design stage.",
+        "Keep designs and submittals aligned with the BEP, municipal codes and client requirements.",
+        "Work with the Dubai design team on design and delivery issues.",
+        "Align drawings with project teams and sub-consultants, and coordinate code compliance with municipal engineers."
+      ]
+    },
+    {
+      "dates": "2019 - 2024",
+      "title": "Senior Projects Coordinator",
+      "company": "Concreative Consultancy · Egypt",
+      "points": [
+        "Led and mentored junior architects through training and day-to-day guidance.",
+        "Reviewed submittals and followed up with clients and all disciplines.",
+        "Coordinated Architecture, Structure, MEP and Infrastructure drawings.",
+        "Managed schedules, action plans and progress reporting."
+      ]
+    }
+  ],
+  "education": "Bachelor of Architecture, 2018. Faculty of Fine Arts, Architecture Department. Helwan University, Zamalek, Cairo.",
+  "languages": "Arabic: Native · English: Good",
+  "approach": "Communication & teamwork. Leadership & responsibility. Critical thinking & problem solving. Detail-oriented & quality-focused."
+}

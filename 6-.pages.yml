@@ -1,0 +1,58 @@
+media:
+  input: media
+  output: /media
+content:
+  - name: projects
+    label: Projects
+    type: file
+    path: projects.json
+    format: json
+    list: true
+    fields:
+      - {name: n, label: Order, type: number}
+      - {name: name, label: Project name, type: string, required: true}
+      - name: region
+        label: Region
+        type: select
+        options:
+          values: [GCC, Egypt]
+      - {name: place, label: City, type: string}
+      - {name: type, label: Project type, type: string}
+      - {name: client, label: Developer or client, type: string}
+      - {name: image, label: Project image, type: image}
+      - {name: alt, label: Image description, type: string}
+      - {name: credit, label: Image credit and context, type: text}
+      - {name: url, label: Image source URL, type: string}
+      - {name: focus, label: Short headline, type: string}
+      - {name: roles, label: My contributions, type: text, list: true}
+  - name: profile
+    label: Profile and experience
+    type: file
+    path: site.json
+    format: json
+    fields:
+      - {name: name, label: Name, type: string}
+      - {name: title, label: Professional title, type: string}
+      - {name: location, label: Location, type: string}
+      - {name: headline, label: Main headline, type: string}
+      - {name: intro, label: Introduction, type: text}
+      - {name: about, label: About, type: text}
+      - {name: education, label: Education, type: text}
+      - {name: languages, label: Languages, type: string}
+      - {name: approach, label: Approach, type: text}
+      - name: skills
+        label: Skills
+        type: object
+        list: true
+        fields:
+          - {name: title, type: string}
+          - {name: items, type: string, list: true}
+      - name: experience
+        label: Experience
+        type: object
+        list: true
+        fields:
+          - {name: dates, type: string}
+          - {name: title, type: string}
+          - {name: company, type: string}
+          - {name: points, type: text, list: true}
