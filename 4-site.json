@@ -3,8 +3,11 @@
   "title": "Senior BIM Architect",
   "location": "Cairo, Egypt",
   "headline": "Every discipline. One clear model.",
-  "intro": "I specialize in high-end residential projects across the GCC, delivering coordinated architectural models from Schematic Design through IFC.",
+  "intro": "BIM coordination and technical delivery for residential, commercial and retail projects across the GCC and Egypt.",
   "about": "My work connects Architecture, Structure, MEP, Landscape and Interior, resolving clashes early and keeping deliverables aligned with the BIM Execution Plan.",
+  "education": "Bachelor of Architecture, 2018. Faculty of Fine Arts, Architecture Department. Helwan University, Zamalek, Cairo.",
+  "languages": "Arabic: Native · English: Good",
+  "approach": "Communication & teamwork. Leadership & responsibility. Critical thinking & problem solving. Detail-oriented & quality-focused.",
   "skills": [
     {
       "title": "BIM & CAD",
@@ -55,8 +58,5 @@
         "Managed schedules, action plans and progress reporting."
       ]
     }
-  ],
-  "education": "Bachelor of Architecture, 2018. Faculty of Fine Arts, Architecture Department. Helwan University, Zamalek, Cairo.",
-  "languages": "Arabic: Native · English: Good",
-  "approach": "Communication & teamwork. Leadership & responsibility. Critical thinking & problem solving. Detail-oriented & quality-focused."
+  ]
 }
