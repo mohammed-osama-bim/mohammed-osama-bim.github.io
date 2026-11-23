@@ -24,6 +24,7 @@ content:
       - {name: credit, label: Image credit and context, type: text}
       - {name: url, label: Image source URL, type: string}
       - {name: focus, label: Short headline, type: string}
+      - {name: highlights, label: Two visible contribution points, type: text, list: true}
       - {name: roles, label: My contributions, type: text, list: true}
   - name: profile
     label: Profile and experience
@@ -56,3 +57,13 @@ content:
           - {name: title, type: string}
           - {name: company, type: string}
           - {name: points, type: text, list: true}
+  - name: homepage
+    label: Layout code (advanced)
+    type: file
+    path: index.html
+    format: code
+  - name: projectdata
+    label: Project data (advanced)
+    type: file
+    path: 5-projects.json
+    format: code
